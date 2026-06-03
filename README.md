@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI DevOps RAG Assistant
 
 AI-powered Retrieval-Augmented Generation (RAG) system for intelligent PDF question answering using FastAPI, ChromaDB, Ollama, and Llama3.
@@ -35,3 +36,6 @@ ollama run llama3
 ### Run Backend
 
 uvicorn backend.main:app --reload
+=======
+# AI-DevOps-RAG-Assistant
+>>>>>>> 4f18c3bfe0cd61cc22211844745b46207a9c6178
